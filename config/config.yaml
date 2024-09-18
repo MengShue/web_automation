@@ -1,0 +1,9 @@
+BASE_URLS:
+  development: "https://m.twitch.tv"
+  testing: "https://m.twitch.tv"
+  production: "https://m.twitch.tv"
+
+DEFAULT_ENV: "production"
+
+IMPLICITLY_TIMEOUT: 10
+EXPLICITLY_TIMEOUT: 10

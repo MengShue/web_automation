@@ -1,0 +1,5 @@
+.idea
+testResults/*.html
+screenshot/*.png
+__pycache__/
+.env/
